@@ -1,0 +1,13 @@
+numpy
+pillow
+matplotlib
+opencv-python
+onnxruntime
+mediapipe
+filterpy
+lap
+cython
+cython-bbox
+rich
+gdown
+tensorflow
